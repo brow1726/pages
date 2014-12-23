@@ -1,0 +1,52 @@
+.complete {
+    background-color: RGB(50,200,150);
+}
+.complete{
+    margin-left: 100;
+    margin-right: 100;
+    Padding:75;
+}
+.professional-experience p {
+    padding-left: 100;
+    font-style: italic;
+}
+.professional-experience ul {
+    padding-left: 150;
+}
+.personal-info p {
+    font-size: 20px;
+}   
+.skills p {
+    display: inline;
+    Padding-right: 20;
+    Padding-left: 100;
+    font-size: 25;
+    }
+.personal-info p {
+    line-height: .4;
+    display: inline;
+    padding-right: 20
+}
+.complete h1 {
+    font-family: "Comic sans MS";
+}
+.complete p {
+    font-family: "comic sans MS";
+}
+.complete li {
+    font-family: "Comic sans MS";
+}
+.professional-experience h3 {
+    line-height: .25;
+    padding-left: 40
+}
+.professional-experience h2 {
+    padding-left: 40;
+}
+.skills {
+    border-bottom: 2px solid;
+    border-top: 2px solid
+}
+.profile p {
+    font-size: 18px;
+}
